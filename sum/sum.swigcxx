@@ -1,0 +1,6 @@
+
+%{
+#include "sum.hxx"
+%}
+
+%include "sum.hxx"
